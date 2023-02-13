@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id":1,
+      "text":"Do laundry",
+      "day":"February 12th at 4:00 PM",
+      "reminder": true
+      },
+  
+      {
+      "id":2,
+      "text":"Lab work",
+      "day":"February 12th at 6:00 PM",
+      "reminder": true
+      },
+      
+      {
+      "id":3,
+      "text":"Take a walk",
+      "day":"February 13th at 9:00 AM",
+      "reminder": true
+      },
+  
+      {
+      "id":4,
+      "text":"Fix switch",
+      "day":"March 2nd at 2:00 PM",
+      "reminder": true
+      }
+  ]
+}
